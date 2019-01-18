@@ -9,6 +9,7 @@
 int main(void){
     printf("yo waddup");
 
+    printf("Pull requests are easy pz");
 
     return 0;
 }
