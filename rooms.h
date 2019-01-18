@@ -5,7 +5,7 @@
 #include <stddef.h>
 
 ROOM town_r;
-ROOM forest _r;
+ROOM forest_r;
 
 ROOM forest_r = {
     .id = 1,
